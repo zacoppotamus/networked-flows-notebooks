@@ -12,9 +12,7 @@ Installing and managing Python dependencies (/libraries) is usually a mess. [Con
 
 Most of you use Windows so I suggest you follow this guide [here](https://www.youtube.com/watch?v=i0DCPOiNK4A&ab_channel=AmitThinks).
 
-After installation:
-
-In the Windows terminal run these commands (one line at a time, then press ENTER):
+After installation, in the Windows terminal run these commands (one line at a time, then press ENTER):
 
 ```
 conda create --name networked-flows python=3.11
@@ -37,7 +35,10 @@ in order to get access to the environment that has our dependencies installed.
 - [Importing shapefile data with Blender GIS](https://www.youtube.com/watch?v=WviTi0q2BpA&t=457s&ab_channel=Nicko16)
 - [Blender GIS: working with custom raster and vector data](https://www.youtube.com/watch?v=t9CH-cg8scc&t=218s&ab_channel=4DResearchLab)
 
-## [WIP] Visualizations
+## [WIP] Resources for JavaScript
+
+- [deck.gl](https://deck.gl/)
+- [mapboxGL](https://docs.mapbox.com/mapbox-gl-js/example/)
 
 ## Further resources / inspiration
 
